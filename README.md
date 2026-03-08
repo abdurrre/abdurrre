@@ -12,18 +12,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 **Currently working on:** My thesis focusing on forecasting the IHSG and IDR exchange rates using a Multivariate LSTM model.
-- 🌱 **Deepening my skills in:** Data preprocessing, predictive modeling, and building dynamic web applications.
-- 💼 **Previous experience:** Completed a Data Analyst internship at the Department of Manpower, Cooperatives, and SMEs (Banyumas Regency) & worked as a Linear Algebra Tutorial Assistant.
-- 🎓 **Education:** Mathematics at Universitas Jenderal Soedirman.
-- 💬 **Ask me about:** Python, Data Analysis, Machine Learning (Logistic Growth Models, Fuzzy Tsukamoto), and Math.
-- 📫 **How to reach me:** [abdure040818@gmail.com](mailto:abdure040818@gmail.com)
+- **Currently working on:** My thesis focusing on forecasting the IHSG and IDR exchange rates using a Multivariate LSTM model.
+- **Deepening my skills in:** Data preprocessing, predictive modeling, and building dynamic web applications.
+- **Previous experience:** Completed a Data Analyst internship at the Department of Manpower, Cooperatives, and SMEs (Banyumas Regency) & worked as a Linear Algebra Tutorial Assistant.
+- **Education:** Mathematics at Universitas Jenderal Soedirman.
+- **Ask me about:** Python, Data Analysis, Machine Learning (Logistic Growth Models, Fuzzy Tsukamoto), and Math.
+- **How to reach me:** [abdure040818@gmail.com](mailto:abdure040818@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
 * **Labor Data Analysis:** Analyzed labor data from 924,757 residents in Banyumas Regency to determine the relationship between education levels and job types.
 * **Supplier Decision Support System:** Developed a DSS to select the best supplier utilizing Fuzzy Tsukamoto logic.
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Dashboard & Stats
+### GitHub Dashboard & Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=abdurrre&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" />
